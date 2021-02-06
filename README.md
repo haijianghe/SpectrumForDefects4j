@@ -1,0 +1,2 @@
+# SpectrumForDefects4j
+Ubuntu+VirtualBox下收集Defects4j的程序谱及源代码
